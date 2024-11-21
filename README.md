@@ -6,10 +6,12 @@ End-to-End Data Workflows:
 
 Extract, transform, and load (ETL) the dataset.
 Build a clean and structured data model for analysis.
+
 Machine Learning Models:
 
 Forecast future sales trends and car prices.
 Segment cars based on features like price, mileage, and condition.
+
 Visualization:
 
 Create advanced, interactive Tableau dashboards with:
